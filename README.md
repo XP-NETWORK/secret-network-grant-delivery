@@ -17,3 +17,10 @@
 | Length | Deliverable | Specification |
 |-|-|-|
 | 0.5 month | Tests & Documentation | 1. [Inline documentation of the code](https://github.com/XP-NETWORK/secret-bridge/commit/2ff8f610a8b905796a5d8fc626e26dd322b4de76)<br/>2. [SC Functional tests](https://github.com/XP-NETWORK/secret-bridge/blob/master/src/tests.rs)<br/>3. [Basic tutorial](https://github.com/XP-NETWORK/testing-secret_network) that can [interact](https://secretnodes.com/secret/chains/pulsar-2/contracts/secret146snljq0kjsva7qrx4am54nv3fhfaet7srx4n2) with the deployed [smart contracts](https://github.com/XP-NETWORK/xpjs/blob/secretjs/src/factory/factories.ts#L267-L280) and backend service.<br/>4. [Testing the contracts in the testnet environment](https://github.com/XP-NETWORK/testing-secret_network#minting-an-nft-on-secret)|
+
+## TODO ================================================== >
+
+### `Milestone 4` — Integrating into the Live Bridge
+| Length | Deliverable | Specification |
+|-|-|-|
+| 1 month | Validators, Backend, Frontend | 1. Developing validation logic relevant for the Secret Network part of the bridge<br/>2. Adding Secret Network to the Bridge NFT-Indexer<br/>3. Integrating TX fee estimation<br/>4. Plugging Secret Network in the heartbeat<br/>5. Integrating with a Secret Network rpc node<br/>6. Integrating Secret Network in the bridge UI<br/>7. Deploying smart contracts<br/>8. Adding Secret Network to the bridge JS library<br/>9. Adding access to Secret Network from the REST API<br/>10. Adding Secret Network to the bridge widget|
