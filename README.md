@@ -88,4 +88,4 @@ https://github.com/XP-NETWORK/xpjs/search?q=secret
 
 Users can sign transactions via the Kepl wallet.
 
-![Kepl wallet support](#assets/Keplr_wallet_support.png)
+![Kepl wallet support](assets/Keplr_wallet_support.png)
